@@ -1,2 +1,2 @@
-# fullstackopen2019
-fullstackopen2019
+# fullstackopen2020
+fullstackopen2020
